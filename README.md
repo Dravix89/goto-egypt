@@ -6,11 +6,6 @@
 
 Site de voyages et de récits au coeur de l'Égypte ancienne.
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![CSS](https://img.shields.io/badge/CSS-Vanilla-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![Vercel](https://img.shields.io/badge/D%C3%A9ploy%C3%A9%20sur-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://goto-egypt.vercel.app)
-
 [Voir le site](https://goto-egypt.vercel.app)
 
 </div>
@@ -40,11 +35,7 @@ Le site met l'accent sur l'ambiance : ciel étoilé animé, dunes en SVG, pyrami
 
 ## Aperçu
 
-> Remplace ce bloc par une capture d'écran de ton site.
-
-```md
 ![Aperçu du site](./public/apercu.png)
-```
 
 ## Pages
 
@@ -150,17 +141,11 @@ goto-egypt/
 
 ## Déploiement
 
-Le site est conçu pour être déployé sur [Vercel](https://vercel.com).
-
-1. Pousser le projet sur GitHub
-2. Importer le dépôt sur [vercel.com/new](https://vercel.com/new)
-3. Cliquer sur **Deploy**
-
 Lien de production : [https://goto-egypt.vercel.app](https://goto-egypt.vercel.app)
 
 ## Auteur
 
-**David R**
+**David Roussety**
 
 - GitHub : [@Dravix89](https://github.com/Dravix89)
 
